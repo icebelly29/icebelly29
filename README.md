@@ -6,11 +6,11 @@
   position: Chennai; 
   height: 179cm; 
   display: male; 
-  background: CSE Student;
-  background-size: 3 Years;
+  background: CSE Grad;
+  background-size: 4 Years;
   color: brown;
   accent: indian;
-  quotes: "I wanna be a Chevy not a Sentra";
+  quotes: "LGTM.";
 }
 ```
 
