@@ -3,9 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=icebelly29&theme=transparent&hide_border=true&short_numbers=true&hide_longest_streak=true" alt="GitHub Streak" />
-  </a>
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=icebelly29&theme=transparent&hide_border=true&short_numbers=true&hide_longest_streak=true)](https://git.io/streak-stats)
 </div>
 
 ```css
