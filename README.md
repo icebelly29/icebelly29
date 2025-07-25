@@ -25,8 +25,10 @@
   quotes: "LGTM.";
 }
 ```
+<div align="center">
 <img src="https://media.tenor.com/sbfBfp3FeY8AAAAj/oia-uia.gif" width="10%" height="10%"/>
-<img src="https://media.tenor.com/sbfBfp3FeY8AAAAj/oia-uia.gif" width="10%" height="10%"/>
+</div>
+
 <!--
 **icebelly29/icebelly29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
