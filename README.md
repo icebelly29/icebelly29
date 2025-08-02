@@ -7,9 +7,12 @@
 </div>
 
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://media.tenor.com/cceueTeJSjoAAAAi/clippy.gif" width="25%" height="25%"/>
   
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=icebelly29&theme=transparent&hide_border=true&short_numbers=true&hide_longest_streak=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=icebelly29&theme=transparent&hide_border=true&short_numbers=true&hide_longest_streak=true" alt="GitHub Streak"/>
+  </a>
 </div>
 
 ```css
