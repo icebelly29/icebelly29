@@ -3,8 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/icebelly29/icebelly29/assets/68722494/7b309dee-78d8-4cc5-9eb9-1e5bfe3365a7" alt="Meow" />
+<!--   <img src="https://github.com/icebelly29/icebelly29/assets/68722494/7b309dee-78d8-4cc5-9eb9-1e5bfe3365a7" alt="Meow" /> -->
+  <img src="https://github.com/user-attachments/assets/260f37aa-c06c-4df4-96e4-513ecc04fb78" alt="Meow" />
 </div>
+
 
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
