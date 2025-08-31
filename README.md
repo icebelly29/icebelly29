@@ -30,6 +30,8 @@
   quotes: "LGTM.";
 }
 ```
+[![An image of @icebelly_29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/icebelly_29)](https://holopin.io/@icebelly_29)
+
 <div align="center">
 <img src="https://media.tenor.com/sbfBfp3FeY8AAAAj/oia-uia.gif" width="10%" height="10%"/>
 </div>
